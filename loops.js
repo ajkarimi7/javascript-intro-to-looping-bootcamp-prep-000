@@ -17,10 +17,10 @@ function whileLoop(i) {
 }
 
 function doWhileLoop(num) {
-  var i = 0;
+  var a = 0;
   
   function incrementVariable() {
-    i = i + 1;
+    a = a + 1;
     return i
   } 
   do {
