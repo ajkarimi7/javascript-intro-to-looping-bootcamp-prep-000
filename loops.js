@@ -24,6 +24,6 @@ function doWhileLoop(num) {
   return a;
   } 
   do {
-    console.log('I run once regardless.');
+    console.log("I run once regardless.");
   } while (incrementVariable() < num);
 }
