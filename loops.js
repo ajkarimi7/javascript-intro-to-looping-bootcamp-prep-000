@@ -10,7 +10,7 @@ function forLoop(array) {
 }
 
 function whileLoop(i) {
-  while (i > 25) {
+  while (i > 0) {
     console.log(--i)
   }
   return done
